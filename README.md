@@ -1,0 +1,1 @@
+# kedr6-doma
