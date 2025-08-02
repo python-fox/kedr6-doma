@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "floor": 13,
+    "number": "1301",
+    "rooms": "2",
+    "area": "68.01",
+    "price": "7200000",
+    "status": "Свободно",
+    "type": "flat",
+    "photo_plan": "https://example.com/plan1301.jpg",
+    "photo_floor": "https://example.com/floor13.jpg",
+    "photo_extra": ["https://example.com/extra1.jpg", "https://example.com/extra2.jpg"]
+  },
+  {
+    "id": 2,
+    "floor": 12,
+    "number": "1205",
+    "rooms": "3",
+    "area": "82.45",
+    "price": "8300000",
+    "status": "Продано",
+    "type": "flat",
+    "photo_plan": "",
+    "photo_floor": "",
+    "photo_extra": []
+  },
+  {
+    "id": 3,
+    "floor": -1,
+    "number": "P01",
+    "rooms": "",
+    "area": "18",
+    "price": "950000",
+    "status": "Свободно",
+    "type": "parking",
+    "photo_plan": "",
+    "photo_floor": "",
+    "photo_extra": []
+  },
+  {
+    "id": 4,
+    "floor": -1,
+    "number": "S07",
+    "rooms": "",
+    "area": "4.5",
+    "price": "320000",
+    "status": "Забронировано",
+    "type": "storage",
+    "photo_plan": "",
+    "photo_floor": "",
+    "photo_extra": []
+  }
+]
