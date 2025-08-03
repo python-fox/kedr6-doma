@@ -13,6 +13,27 @@
     "логотип": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/VTB_Logo_2018.svg/220px-VTB_Logo_2018.svg.png",
     "макссрок": 25
   },
+    {
+    "программа": "Семейная",
+    "банк": "ВТБ-лайтнинг",
+    "ставка": 6.5,
+    "логотип": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/VTB_Logo_2018.svg/220px-VTB_Logo_2018.svg.png",
+    "макссрок": 25
+  },
+    {
+    "программа": "Семейная",
+    "банк": "ТБ",
+    "ставка": 6.5,
+    "логотип": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/VTB_Logo_2018.svg/220px-VTB_Logo_2018.svg.png",
+    "макссрок": 25
+  },
+    {
+    "программа": "Семейная",
+    "банк": "АХуЕнА",
+    "ставка": 6.5,
+    "логотип": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/VTB_Logo_2018.svg/220px-VTB_Logo_2018.svg.png",
+    "макссрок": 25
+  },
   {
     "программа": "Господдержка",
     "банк": "Альфабанк",
