@@ -1,0 +1,37 @@
+[
+  {
+    "программа": "Семейная",
+    "банк": "Сбербанк",
+    "ставка": 6.3,
+    "логотип": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Sberbank_Logo_2020.svg",
+    "макссрок": 25
+  },
+  {
+    "программа": "Семейная",
+    "банк": "ВТБ",
+    "ставка": 6.5,
+    "логотип": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/VTB_Logo_2022.svg/512px-VTB_Logo_2022.svg.png",
+    "макссрок": 25
+  },
+  {
+    "программа": "Господдержка",
+    "банк": "Альфабанк",
+    "ставка": 7.2,
+    "логотип": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Alfabank.svg/512px-Alfabank.svg.png",
+    "макссрок": 30
+  },
+  {
+    "программа": "Господдержка",
+    "банк": "Газпромбанк",
+    "ставка": 7.0,
+    "логотип": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Gazprombank.svg/512px-Gazprombank.svg.png",
+    "макссрок": 30
+  },
+  {
+    "программа": "IT-ипотека",
+    "банк": "Сбербанк",
+    "ставка": 5.0,
+    "логотип": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Sberbank_Logo_2020.svg",
+    "макссрок": 30
+  }
+]
